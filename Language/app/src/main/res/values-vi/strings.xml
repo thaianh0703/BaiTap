@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hỗ trợ đa ngôn ngữ</string>
+    <string name="wellcome">Chào mừng bạn</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="signup">Bạn đã có tài khoản chưa? Đăng ký</string>
+    <string name="changlang">Thay đổi ngôn ngữ</string>
+</resources>

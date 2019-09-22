@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multiple langgue support</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Do you have account? Sign up</string>
+    <string name="changlang">Change Langguage</string>
+</resources>
